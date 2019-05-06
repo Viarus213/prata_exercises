@@ -4,7 +4,7 @@
 
 # Ignore makefiles for listngs created by Prata. Not include the makefiles for exercises
 */makefile
-*/exercise/makefile
+!*/exercise/makefile
 
 # Ignore all compiled programms and drafts
 *main*
