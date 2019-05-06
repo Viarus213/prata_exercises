@@ -1,5 +1,5 @@
 # Ignore all *.cpp files exluded the exercices
-*/*.cpp
+*/*
 !*/exercise/*.cpp
 
 # Ignore makefiles for listngs created by Prata. Not include the makefiles for exercises
