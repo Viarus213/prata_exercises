@@ -1,0 +1,4 @@
+*/*.cpp
+!*/exercise/*.cpp
+*main*
+*brudnopis*
